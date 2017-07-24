@@ -1,1 +1,1 @@
-# Multilple language in Android sample
+# Multilple languages in Android sample
